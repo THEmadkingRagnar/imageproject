@@ -1,0 +1,12 @@
+
+.firstheader {
+	width: 100%;
+	height: 200px;
+	position: relative;
+	display: flex;
+	flex-wrap: nowrap;
+}
+.firstheader img{
+	width: 20%;
+}
+
